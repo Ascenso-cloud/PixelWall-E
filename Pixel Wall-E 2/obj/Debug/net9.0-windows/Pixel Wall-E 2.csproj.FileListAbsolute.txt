@@ -1,0 +1,14 @@
+D:\Pixel Wall-E 2\bin\Debug\net9.0-windows\Pixel Wall-E 2.exe
+D:\Pixel Wall-E 2\bin\Debug\net9.0-windows\Pixel Wall-E 2.deps.json
+D:\Pixel Wall-E 2\bin\Debug\net9.0-windows\Pixel Wall-E 2.runtimeconfig.json
+D:\Pixel Wall-E 2\bin\Debug\net9.0-windows\Pixel Wall-E 2.dll
+D:\Pixel Wall-E 2\bin\Debug\net9.0-windows\Pixel Wall-E 2.pdb
+D:\Pixel Wall-E 2\obj\Debug\net9.0-windows\Pixel Wall-E 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pixel Wall-E 2\obj\Debug\net9.0-windows\Pixel Wall-E 2.AssemblyInfoInputs.cache
+D:\Pixel Wall-E 2\obj\Debug\net9.0-windows\Pixel Wall-E 2.AssemblyInfo.cs
+D:\Pixel Wall-E 2\obj\Debug\net9.0-windows\Pixel Wall-E 2.csproj.CoreCompileInputs.cache
+D:\Pixel Wall-E 2\obj\Debug\net9.0-windows\Pixel Wall-E 2.dll
+D:\Pixel Wall-E 2\obj\Debug\net9.0-windows\refint\Pixel Wall-E 2.dll
+D:\Pixel Wall-E 2\obj\Debug\net9.0-windows\Pixel Wall-E 2.pdb
+D:\Pixel Wall-E 2\obj\Debug\net9.0-windows\Pixel Wall-E 2.genruntimeconfig.cache
+D:\Pixel Wall-E 2\obj\Debug\net9.0-windows\ref\Pixel Wall-E 2.dll
