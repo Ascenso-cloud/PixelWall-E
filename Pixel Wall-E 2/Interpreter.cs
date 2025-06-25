@@ -210,8 +210,8 @@ public class Interpreter
         if (width <= 0 || height <= 0)
             throw new RuntimeException($"Ancho y alto deben ser mayores que 0 en línea {drawRectangle.LineNumber}");
         
-        if (distance <= 0)
-            throw new RuntimeException($"Distancia debe ser mayor que 0 en línea {drawRectangle.LineNumber}");
+        if (distance < 0)
+            throw new RuntimeException($"Distancia debe ser mayor o igual que 0 en línea {drawRectangle.LineNumber}");
         
         int centerX = _walleX + dirX * distance;
         int centerY = _walleY + dirY * distance;
